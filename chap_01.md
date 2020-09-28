@@ -1,6 +1,6 @@
 # Chapter 1
 
-Mục đích của lập trình:
+## Mục đích của lập trình
 
 Khách hàng -> Yêu cầu -> Thực hiện trên máy tính.
 
@@ -19,3 +19,11 @@ và quan trọng là chính xác.
 
 Bởi vì nhập tay đương nhiên dễ sai.
 Nhưng lỗi sai bởi phần mềm lập trình nghiêm trọng hơn vì một khi đã sai thì rất khó để phát hiện.
+
+## Sự đa dạng của ngôn ngữ lập trình
+
+Có rất nhiều ngôn ngữ lập trình đã, đang tồn tại.
+
+Tuy nhiên dễ học thì chỉ có vài ngôn ngữ thôi.
+
+Python là một lựa chọn rất OK, vì cú pháp đa phần là ngôn ngữ, không nhiều ký hiệu đặc biệt lắm.
